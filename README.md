@@ -1,5 +1,9 @@
 # Hello! I'm Maria 👋
 
+<p align="center">
+  🇪🇳 English | <a href="./README.es.md">🇪🇸 Español</a>
+</p>
+
 I'm a Double degree student in DAM & DAW · Passionate about programming, web development, 3D & AI.
  
 ## 👤 About Me 
@@ -73,7 +77,7 @@ I'm a Double degree student in DAM & DAW · Passionate about programming, web de
  
 ## 🌐 Languages
  
-🇪🇸 Spanish — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 English — Advanced (C1)
+🇪🇸 Spanish — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇪🇳 English — Advanced (C1)
  
 ---
  
